@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anandrksdk@gmail.com**
 
-- 📄 Know about my experiences [here)](https://github.com/anandrkskd/anandrkskd/Anand_Kumar_Singh_-_Software_Engineer.pdf)
+- 📄 Know about my experiences [here](https://github.com/anandrkskd/anandrkskd/Anand_Kumar_Singh_-_Software_Engineer.pdf)
 
 - ⚡ Fun fact **I am so into Anime,Manga and JRE podcast!**
 
