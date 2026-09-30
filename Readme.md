@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anand+Kumar+Singh+%F0%9F%91%8B;Senior+Software+Engineer+%40+Red+Hat;Go+%7C+Kubernetes+%7C+Cloud-Native;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hey 👋, I'm Anand Kumar Singh</h1>
+<h3 align="center">Senior Software Engineer @ Red Hat · Go · Kubernetes · Cloud-Native · Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anand-singhq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
