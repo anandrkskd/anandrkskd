@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anand Kumar Singh</h1>
-<h3 align="center">Senior Software Engineer @ Red Hat · Go · Kubernetes · Cloud-Native · Open Source Contributor</h3>
+<h3 align="center">Software Engineer @ Red Hat · Go · Kubernetes · Cloud-Native · Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anand-singhq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
