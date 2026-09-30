@@ -1,35 +1,61 @@
-<h1 align="center">Hi 👋, I'm Anand Kumar Singh</h1>
-<h3 align="center">A passionate developer from India. Exploring the Boundless Horizons of Code: A Journey through Creativity and Innovation.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandrkskd&label=Profile%20views&color=0e75b6&style=flat" alt="anandrkskd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anandlikesanime" target="blank"><img src="https://img.shields.io/twitter/follow/anandlikesanime?logo=twitter&style=for-the-badge" alt="anandlikesanime" /></a> </p>
-
-- 🔭 I’m currently working on [OpenShift GitOps](https://github.com/redhat-developer/gitops-operator)
-
-- 🌱 I’m currently learning **kubernetes operators!**
-
-- 📫 How to reach me **anandrksdk@gmail.com**
-
-- 📄 Know about my experiences [here](https://github.com/anandrkskd/anandrkskd/Anand_Kumar_Singh_-_Software_Engineer.pdf)
-
-- ⚡ Fun fact **I am so into Anime,Manga and JRE podcast!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anandlikesanime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandlikesanime" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-singhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-singhq" height="30" width="40" /></a>
-<a href="https://instagram.com/anandkrsingh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anandkrsingh__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anandrkskd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandrkskd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=anandrkskd&show_icons=true&locale=en" alt="anandrkskd" /></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anand+Kumar+Singh+%F0%9F%91%8B;Senior+Software+Engineer+%40+Red+Hat;Go+%7C+Kubernetes+%7C+Cloud-Native;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anandrkskd&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://linkedin.com/in/anand-singhq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anandrkskd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/anandlikesanime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/anandrkskd"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anandrkskd&style=for-the-badge&color=0e75b6" />
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+Software Engineer at **Red Hat** (OpenShift GitOps team) with **6 years** of experience shipping production-grade Kubernetes tooling in Go. I specialize in Kubernetes operators, ArgoCD, and cloud-native security — and I contribute upstream to the projects I work on.
+
+---
+
+## 🏆 Impact
+
+| | |
+|---|---|
+| **80% memory reduction** | Redesigned ArgoCD & OpenShift GitOps Operator internals — measurable improvement in production |
+| **Upstream ArgoCD contributor** | Shipped backward-compatible `enabled` field on Application CR for GitOps sync control |
+| **OCP 5.0 security compliance** | Audited ArgoCD networking layer; designed & implemented Network Policies for all core components |
+| **Reduced onboarding friction** | Built ArgoCD Agent deployment manifests + docs; cut customer setup time significantly |
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+**Deep expertise:** Kubebuilder · Operator SDK · controller-runtime · client-go · Ginkgo · Kind · Minikube
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandrkskd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrkskd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anandrkskd&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" />
+</p>
+
+---
+
+<p align="center">📍 Bengaluru, India &nbsp;·&nbsp; 🔭 Currently: <a href="https://github.com/redhat-developer/gitops-operator">OpenShift GitOps</a></p>
